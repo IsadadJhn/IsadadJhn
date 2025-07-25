@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on IsadadJhn
+-  🌱 I’m currently learning Html
+- 😄 Pronouns: They/Gone
+- ⚡ Fun fact: I hate matcha
