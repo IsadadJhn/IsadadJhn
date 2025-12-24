@@ -54,6 +54,7 @@ I’m a newbie aka "Aku mah masih pemulaaa". Most of my knowledge comes from exp
 
 ### 📫 Let's Connect!
 ![https://www.instagram.com/isadad_jhn?igsh=cmhnOHd3Y2Q0bGJ5](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![www.linkedin.com/in/sadad-jhn-63352528a](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
 I'm always open to collaborating on open-source projects or just chatting about the latest in AI. 
 - 🤝 **Open for:** Collaborations in AI/ML  projects.
 - 💬 **Ask me about:** Python, Web Development, or why I love Linux!
